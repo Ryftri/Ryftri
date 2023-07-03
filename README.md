@@ -5,3 +5,4 @@
 
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=blue&labelColor=white&textColor=grey"/>
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black&labelColor=black&labelColor=black"/>
+<img alt="Javascript" src="https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=nodejs&logoColor=white&labelColor=black&labelColor=green"/>
