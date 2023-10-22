@@ -1,9 +1,17 @@
-# Hello, I'm [Rayhan Zulfitri] 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my GitHub profile! I'm a student  with a strong interest in students of the informatics engineering study program.
+<p>Welcome to my page!</br>I`m Rayhan, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/6157/6157721.png" height="15"/> <b>Madiun, Indonesia</b>.
+</p>
 
-## 🔧 Technologies & Tools
-
-- [Tech/Tool 1]([https://link-to-tech1-website](https://flutter.dev/))
-- [Tech/Tool 2](https://link-to-tech2-website)
-- [Tech/Tool 3](https://link-to-tech3-website)
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=blue&labelColor=white&textColor=grey"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black&labelColor=black&labelColor=black"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
