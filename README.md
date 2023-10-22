@@ -1,5 +1,9 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Rayhan Zulfitri] 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] with a strong interest in [Your Interests]. I love to work on open-source projects and collaborate with others. Here you'll find some of the projects I've been working on.
+Welcome to my GitHub profile! I'm a student  with a strong interest in students of the informatics engineering study program.
 
 ## 🔧 Technologies & Tools
+
+- [Tech/Tool 1]([https://link-to-tech1-website](https://flutter.dev/))
+- [Tech/Tool 2](https://link-to-tech2-website)
+- [Tech/Tool 3](https://link-to-tech3-website)
