@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm a fullstack developer currently working at **PT. Golden Network Nusantara** since November 2024. I love building scalable web and mobile applications with clean code and a focus on real-world impact.
+Hi! I'm a fullstack developer. I love building scalable web and mobile applications with clean code and a focus on real-world impact.
 
 ---
 
